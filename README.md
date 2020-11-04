@@ -1,10 +1,8 @@
 ## 🤖Boop-Beep🤖
 
-Its-a-me, Leony!
+Its-a-me
 
-- GProd that I'm interested at                  : Google Cloud  
-- Common developer stuff that I'm interested at : Website front-end development, UI/UX, data science
-- Please stalk me on: https://www.linkedin.com/in/le-leony/
+Common developer stuff that I'm interested at : Website front-end development, UI/UX, data science
 
 ### Languages I'm trying to be good at:
 - ⭕ Python
