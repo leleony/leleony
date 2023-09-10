@@ -1,6 +1,6 @@
 ## Hello!
 
-As stated in my bio, my interests are mostly for oil and gas industries data processing optimization through artifical intelligence. I also have knowledges (though still limited) in front end design and had explored several topics regarding cloud computing (thank you #JuaraGCP challenges). Currently working on my final year project with the topic of Capacitance Resistance Model (CRM/CM) for reservoirs with gas content.
+As stated in my bio, my interests are mostly for oil and gas industries data processing optimization through artifical intelligence. I also have knowledges (though still limited) in front end design and had explored several topics regarding cloud computing (thank you #JuaraGCP challenges). Currently working on my final year project with the topic of Capacitance Resistance Model (CRM/CM) for shut-in wells (see my latest repo).
 
 ### 🖥️ Languages I'm trying to be good at:
 - Python
