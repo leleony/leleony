@@ -13,6 +13,3 @@ As stated in my bio, my interests are mostly for oil and gas industries data pro
 - Time varying optimization
 - History Matching optimization through machine learning
 - Processing optimization for industry-scale data
-
-### 🤔 Feel free to explore my curriculum vitae.
-[CV_Leony.pdf](https://github.com/leleony/leleony/blob/40c93c479315d3472513665aa49daab75f1c1896/CurriculumVitae_Leony.pdf)
